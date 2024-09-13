@@ -13,7 +13,7 @@
       "arrowParentheses": "asNeeded",
       "jsxQuoteStyle": "double",
       "quoteStyle": "single",
-      "semicolons": "asNeeded",
+      "semicolons": "always",
       "trailingCommas": "es5"
     }
   },
